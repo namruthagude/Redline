@@ -149,6 +149,16 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.services.leaderboards@2.3.3": {
+      "name": "com.unity.services.leaderboards",
+      "displayName": "Leaderboards",
+      "resolvedPath": "E:\\GameJam Games\\Redline\\Redline\\Redline\\Library\\PackageCache\\com.unity.services.leaderboards@43cb0b25a6c6",
+      "fingerprint": "43cb0b25a6c68978516f28d495083b3a52773a19",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "2.3.3",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.test-framework@1.6.0": {
       "name": "com.unity.test-framework",
       "displayName": "Test Framework",
@@ -487,6 +497,26 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.services.core@1.16.0": {
+      "name": "com.unity.services.core",
+      "displayName": "Services Core",
+      "resolvedPath": "E:\\GameJam Games\\Redline\\Redline\\Redline\\Library\\PackageCache\\com.unity.services.core@8ba50f624741",
+      "fingerprint": "8ba50f62474188022a50a78f721a5d30dfba0c3e",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "1.16.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.services.authentication@3.6.0": {
+      "name": "com.unity.services.authentication",
+      "displayName": "Authentication",
+      "resolvedPath": "E:\\GameJam Games\\Redline\\Redline\\Redline\\Library\\PackageCache\\com.unity.services.authentication@862f5b816622",
+      "fingerprint": "862f5b816622565a7390d220aedd6fffee951028",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "3.6.0",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.render-pipelines.core@17.3.0": {
       "name": "com.unity.render-pipelines.core",
       "displayName": "Scriptable Render Pipeline Core",
@@ -544,6 +574,16 @@
       "fingerprint": "12999e356c23ff259c1818d8c92b464bca5037df",
       "editorCompatibility": "2022.3.20f1",
       "version": "2.6.5",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.nuget.newtonsoft-json@3.2.2": {
+      "name": "com.unity.nuget.newtonsoft-json",
+      "displayName": "Newtonsoft Json",
+      "resolvedPath": "E:\\GameJam Games\\Redline\\Redline\\Redline\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@4dfd81071c64",
+      "fingerprint": "4dfd81071c6475bb9c114f920bfb4e3fc5e28c6a",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "3.2.2",
       "source": "registry",
       "testable": false
     },
